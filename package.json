@@ -23,7 +23,7 @@
   "author": "Ibrahim Adams",
   "license": "ISC",
   "dependencies": {
-    "@adiwajshing/keyed-db": "^0.2.4",
+    "@adiwajshing/keyed-db": "github:elrebelde21/baileys",
     "@brandond/findthelyrics": "^2.0.5",
     "@green-code/music-track-data": "^2.0.3",
     "@shineiichijo/marika": "^2.0.6",
